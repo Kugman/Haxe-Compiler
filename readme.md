@@ -1,5 +1,4 @@
 # Jack Compiler 
-## if you're already here, please consider giving this repo a star ⭐
 
 A compiler for the **Jack programming language**, implemented in [Haxe](https://haxe.org/).  
 Jack is a simple, high-level, object-based language introduced in the **nand2tetris** course, widely taught in computer science programs.  
@@ -24,3 +23,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/Kugman/Jack-Compiler-By-Haxe.git
 cd jack-compiler-haxe
+
+## if you're already here, please consider giving this repo a star ⭐
