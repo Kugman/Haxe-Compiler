@@ -23,5 +23,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/Kugman/Jack-Compiler-By-Haxe.git
 cd jack-compiler-haxe
-
+```
 ## if you're already here, please consider giving this repo a star ⭐
