@@ -21,5 +21,5 @@ This project translates Jack source code into VM code (intermediate representati
 Clone the repository:
 
 ```bash
-git clone https://github.com/Kugman/Haxe-Compiler.git
+git clone https://github.com/Kugman/Jack-Compiler-By-Haxe.git
 cd jack-compiler-haxe
