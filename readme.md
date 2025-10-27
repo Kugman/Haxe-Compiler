@@ -12,10 +12,8 @@ This project translates Jack source code into VM code (intermediate representati
 - Supports classes, methods, control flow, and expressions as defined in the Jack language
 
 ## Project Structure
-- `Parser.hx` – Parses Jack source code into tokens and syntax trees
+- `Parseing.hx` – Parses Jack source code into tokens and syntax trees
 - `SymbolTable.hx` – Manages identifiers and scope
-- `VMWriter.hx` – Outputs VM commands
-- `CompilationEngine.hx` – Coordinates parsing and code generation
 
 ## Installation
 Clone the repository:
